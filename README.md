@@ -2,8 +2,8 @@
 ## Custom PCB project of LoraWAN weather sensor
 
 <div>
-<img src="https://user-images.githubusercontent.com/1644599/194155392-ede3e45d-ba9a-43cf-92aa-3c4cd41b41e9.png" width="300">
-<img src="https://user-images.githubusercontent.com/1644599/194155446-ee8c838f-2ae9-4b62-a003-a356b459d39f.png" width="300">
+<img src="https://user-images.githubusercontent.com/1644599/194155392-ede3e45d-ba9a-43cf-92aa-3c4cd41b41e9.png" height="200">
+<img src="https://user-images.githubusercontent.com/1644599/194155446-ee8c838f-2ae9-4b62-a003-a356b459d39f.png" height="200">
 </div>
 
 **Components :**
@@ -53,3 +53,12 @@ Use this payload [formatter](https://github.com/janvrska/meteo-sensor-v2/blob/ma
 
 
 From personal testing, the sensor could transmit for 7 months on 2x AA batteries with default settings (DR5, AT+POWER=2)
+
+**Photos of setup:**
+
+Soldered by hand and hot air gun
+<div>
+<img src="https://user-images.githubusercontent.com/1644599/194160522-89b53833-df04-4068-b9f2-6859620f3975.jpg" height="300">
+<img src="https://user-images.githubusercontent.com/1644599/194160618-668f105a-2fb1-41c5-bf30-8abc95e55870.jpg" height="300">
+<img src="https://user-images.githubusercontent.com/1644599/194160633-4cd2d51e-e027-4bfc-af28-a7f6809e9de3.jpg" height="300">
+</div>
