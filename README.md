@@ -41,7 +41,7 @@ stateDiagram
     Sleep --> Measure
 ```
  
- **Low power** (3 uA measured in sleep)
+ **Low power** (250 µA measured in sleep)
  - use AT+DR=DR5 (will work only if a gateway is close or open area without a lot of RF noise)
  - use AT+POWER=2 (same above)
  - other AT commands already used in code
@@ -52,7 +52,7 @@ Use this payload [formatter](https://github.com/janvrska/meteo-sensor-v2/blob/ma
 ![ttn](https://user-images.githubusercontent.com/1644599/194154640-a50b2079-5b75-48da-872b-efba6e2be11c.png)
 
 
-From personal testing, the sensor could transmit for 7 months on 2x AA batteries with default settings (DR5, AT+POWER=2)
+From personal testing, the sensor could transmit for 4 months on 2x AA batteries with default settings (DR5, AT+POWER=2)
 
 **Photos of setup:**
 
